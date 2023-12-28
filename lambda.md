@@ -42,7 +42,7 @@ We want to create a two-column table that contains all possible combinations of 
 
 To do this, we can use the following formula:
 
-```
+```excel
 =LET(
     a, A2:A15,
     b, B2:B15,
@@ -81,7 +81,7 @@ If you want to reuse this formula for different ranges of values, you can conver
 - Click on OK, and close the Name Manager.
 - To use the function, enter `=COMBINE_RANGES(range1, range2)` in any cell, where `range1` and `range2` are the two ranges of values that you want to combine. Columns from a table can also be referenced using the syntax of `TableName[NameOfColumn]`
 
-```
+```excel
     =LAMBDA(
         _a, _b,
             LET(
