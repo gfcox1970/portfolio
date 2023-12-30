@@ -19,6 +19,6 @@ Moving a column or multiple columns to the beginning of a table in Power Query c
 ### 📙 [How to Create a Two-Column Table with All Possible Combinations of Two Ranges in Excel](https://github.com/gfcox1970/excel-lambda)
 
 If you have ever tried to create a two-column table that contains all possible combinations of two ranges of values in Excel, you might have encountered a variety of struggles. You may have used nested loops, helper columns, array formulas, or even VBA macros to achieve this task. However, these methods can be cumbersome, inefficient, or error-prone, especially if you have large or dynamic ranges.
-🗓️
-  **Added: 2023-12-29**
+
+🗓️ **Added: 2023-12-29**
 
