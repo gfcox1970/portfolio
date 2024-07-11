@@ -10,6 +10,12 @@ A creative and innovative Business Analyst and VBA Developer, with a proven trac
 
 ## Articles
 
+### 📙 [Using the REDUCE Function in MS Excel](https://github.com/gfcox1970/excel_tips_tricks/blob/ccba25ccef41e4ef62ecc3f53b847b4ed7228c94/reduce_function.md)
+
+#### 🗓️  **Added: 2024-07-11**
+
+Excel has added many powerful features in recent years, like dynamic spilled arrays. These allow for more flexible and efficient data manipulation. Today, I'll break down a complex formula that showcases the power of these new functions, in particular the `REDUCE` function. 
+
 ### 📙 [Power Query Custom Function - fxMoveColumnsToStart](https://github.com/gfcox1970/power-query-functions)
 
 #### 🗓️  **Added: 2023-12-29**
